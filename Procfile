@@ -1,1 +1,1 @@
-web: java -DngrokUrl=${NGROK_URL} -Dserver.port=$PORT $JAVA_OPTS -jar target/proxy-request-0.0.1-SNAPSHOT.jar
+web: java -DngrokUrl=${NGROK_URL} -Dserver.port=$PORT $JAVA_OPTS -jar target/simple-proxy-service-0.0.1-SNAPSHOT-0.0.1-SNAPSHOT.jar
